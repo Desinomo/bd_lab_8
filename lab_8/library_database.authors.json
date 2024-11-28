@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "6739faa99d9c703f72df8a78"
+  },
+  "name": "J.K. Rowling",
+  "birth_year": 1965
+},
+{
+  "_id": {
+    "$oid": "6739faa99d9c703f72df8a79"
+  },
+  "name": "George Orwell",
+  "birth_year": 1903
+}]

@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "6739faa99d9c703f72df8a7b"
+  },
+  "title": "Harry Potter and the Chamber of Secrets",
+  "author": {
+    "$oid": "6739faa99d9c703f72df8a78"
+  },
+  "year_published": 1998
+},
+{
+  "_id": {
+    "$oid": "6739faa99d9c703f72df8a7c"
+  },
+  "title": "1984",
+  "author": {
+    "$oid": "6739faa99d9c703f72df8a79"
+  },
+  "year_published": 1950
+}]
